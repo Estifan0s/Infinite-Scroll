@@ -1,6 +1,6 @@
 # Infinite-Scroll
 
-- The Unsplash API is utilized here to create a semmleslly infinite scroll event by loading pictures from the API. Nothing fancy, just trying it out!😁
+- The Unsplash API is utilized here to create a semmleslly infinite scroll event by loading pictures from the API. Nothing fancy, just trying it out!	:grin:
 
 ## Feature
 
