@@ -8,3 +8,5 @@
 - You'll also love the loading animation especially if your internet speed is slow.
 - Click the image you want to fully see or download, it will redirect you to the unsplash page.
 - [Here is a Live Demo](https://estif0.github.io/infinite-scroll/)
+
+License: The repository is licensed under the MIT License.
